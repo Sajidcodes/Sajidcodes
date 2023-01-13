@@ -9,7 +9,7 @@ Skills: Data Science | Machine Learning | Deep Learning | Computer Vision
 - 🔭 I’m currently working on Recommendation systems. 
 - 🌱 I’m currently learning Big Data technologies. 
 - 👯 I’m looking to collaborate on deploying machine learning to improve mental health. 
-- 🤔 I’m excited about new ideas.
+- 💡 I’m excited about new ideas.
 - 📫 You can reach me at response.sajidhussain@gmail.com 
 
 
