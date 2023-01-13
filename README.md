@@ -1,6 +1,6 @@
 ### Hi there 👋, Sajid here
 #### MS Data Science
-![MS Data Science](https://mobile.twitter.com/illogicalyou/photo)
+![MS Data Science]
 
 I think you'd really like me if you didn't get to know me.
 
